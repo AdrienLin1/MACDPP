@@ -1,7 +1,7 @@
 # Effective Multi-agent Reinforcement Learning with Relative Entropy Regularization
 Code for Paper "Effective Multi-agent Reinforcement Learning with Relative Entropy Regularization".
 This paper is currently submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS) for peer review.
-![Alt text](image-1.png)
+![Alt text](image.png)
 Please feel free to contact us regarding to the details of implementing MACDPP. (Chenyang Miao: cy.miao@siat.ac.cn Yunduan Cui: cuiyunduan@gmail.com)
 
 ## UR5 robot experiment display
