@@ -7,7 +7,7 @@ Please feel free to contact us regarding to the details of implementing MACDPP. 
 You can see the peformance of MACDPP v.s. other RL algorithms with UR5 task in [our video in YouTube](https://www.youtube.com/watch?v=DhXboXt1pqU). Here we compared these algorithms in different stage interacting with environment.
 
 ## Experiment Config
-Here we update two versions of the MACDPP code, one for the classic MPE task and another for the factorization task.
+Here we update two versions of the MACDPP code, one for the classic MPE tasks and another for the factorization tasks.
 ### MPE env
 A simple multi-agent particle world based on gym. Please see [here](https://github.com/openai/multiagent-particle-envs) to install and know more about the environment.
 For other dependencies, please refer to the requirements_mpe.txt.
