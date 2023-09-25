@@ -1,4 +1,4 @@
-# Effective Multi-agent Reinforcement Learning with Relative Entropy Regularization
+# Effective Multi-Agent Reinforcement Learning Control with Relative Entropy Regularization
 Code for Paper "Effective Multi-agent Reinforcement Learning with Relative Entropy Regularization".
 This paper is currently submitted to IEEE Transactions on Neural Networks and Learning Systems (TNNLS) for peer review.
 ![Alt text](image.png)
