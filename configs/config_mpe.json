@@ -1,0 +1,16 @@
+{
+    "CRITIC_LR": 0.01,
+    "ACTOR_LR": 0.01,
+    "GAMMA": 0.95,
+    "TAU": 1e-3,
+    "BATCH_SIZE": 1024,
+    "MAX_STEP_PER_EPISODE": 25,
+    "EVAL_EPISODES": 3,
+    "DEVICE": "gpu",
+    "SAMPLE_NUM": 50,
+    "TEM": 1,
+    "BOLTZMANN_EXPLORATION": 0.2,
+    "BETA": 20.0,
+    "ALPHA": 1.0,
+    "NUM": 30
+}

@@ -1,0 +1,17 @@
+{
+    "WARMUP_STEPS": 10000,
+    "EVAL_EPISODES": 5,
+    "MEMORY_SIZE": 1000000,
+    "BATCH_SIZE": 100,
+    "GAMMA": 0.99,
+    "TAU": 0.005,
+    "ACTOR_LR": 5e-5,
+    "CRITIC_LR": 5e-4,
+    "EXPL_NOISE": 0.1,
+    "DEVICE": "gpu",
+    "SAMPLE_NUM": 50,
+    "TEM": 1,
+    "BETA": 0.05,
+    "ALPHA": 1.0,
+    "NUM": 30
+  }
