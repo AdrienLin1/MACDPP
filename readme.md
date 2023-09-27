@@ -1,5 +1,5 @@
 # Effective Multi-Agent Reinforcement Learning Control with Relative Entropy Regularization
-Code for Paper "Effective Multi-agent Reinforcement Learning Control with Relative Entropy Regularization".
+Code for Paper ["Effective Multi-agent Reinforcement Learning Control with Relative Entropy Regularization"](https://arxiv.org/abs/2309.14727).
 This paper is currently submitted to IEEE Transactions on Automation Science and Engineering (T-ASE) for peer review.
 ![Alt text](image.png)
 Please feel free to contact us regarding to the details of implementing MACDPP. (Chenyang Miao: cy.miao@siat.ac.cn Yunduan Cui: cuiyunduan@gmail.com)
@@ -27,3 +27,13 @@ In the configs directory we upload the specific configurations of physical_decep
 
 ## Visualization
 We use VisualDL, a visualization analysis tool of PaddlePaddle to realize the visualization of the exp process. 
+
+## Reference
+@misc{miao2023effective,
+      title={Effective Multi-Agent Deep Reinforcement Learning Control with Relative Entropy Regularization}, 
+      author={Chenyang Miao and Yunduan Cui and Huiyun Li and Xinyu Wu},
+      year={2023},
+      eprint={2309.14727},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY}
+}
