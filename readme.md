@@ -15,7 +15,7 @@ A simple multi-agent particle world based on gym. Please see [here](https://gith
 For other dependencies, please refer to the requirements_mpe.txt.
 
 ### Robo-gym env
-robo-gym is an open source toolkit for distributed reinforcement learning on real and simulated robots. You can see [here](https://github.com/jr-robotics/robo-gym) to install this env.
+Robo-gym is an open source toolkit for distributed reinforcement learning on real and simulated robots. You can see [here](https://github.com/jr-robotics/robo-gym) to install this env.
 For other dependencies, please refer to the requirements_robo_gym.txt.
 
 ## Running Experiment
