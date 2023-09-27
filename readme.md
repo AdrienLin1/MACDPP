@@ -29,6 +29,7 @@ In the configs directory we upload the specific configurations of physical_decep
 We use VisualDL, a visualization analysis tool of PaddlePaddle to realize the visualization of the exp process. 
 
 ## Reference
+```
 @misc{miao2023effective,
       title={Effective Multi-Agent Deep Reinforcement Learning Control with Relative Entropy Regularization}, 
       author={Chenyang Miao and Yunduan Cui and Huiyun Li and Xinyu Wu},
@@ -37,3 +38,4 @@ We use VisualDL, a visualization analysis tool of PaddlePaddle to realize the vi
       archivePrefix={arXiv},
       primaryClass={eess.SY}
 }
+```
